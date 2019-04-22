@@ -73,7 +73,7 @@ cat github.pub
 ssh-rsa AAAAB3Nza2EAAAADAQABAAABAQDbSjrdVdjkfzZM2yfdOI2sOW9fXF5qKPZFGJl21FRbOcFmw+HZ5sa7rJknmDsGQBL+AHnc/kBJIfDD3eN1YY2tFZFu2tin6f2PrY7wovxAKC3nZQaX28v4YPR4OMENBL37wowsvH+XvEQVJYogHoq9O8OAus6rnFJeolWd/0rka8XOHv7KMX+i4k985n40iz60ivoznWIRrJbTySspIyo3qYubEGItJ+4uulZiKH79DNZfquqpF/CFQ4EDBIXXpUOZ4nZJlNaWOWy4djE0chk8VVg7QAknvc/ajQnJOIx2M34zR+0TawTDl/J+0r4IMLykTqwBk6KhzYyPFo/Y5QuX tuemail@domain.com
 
 Ingresamos en nuestra cuenta de github y en *settings* accedemos al apartado situado en el lado izquierdo de la pantalla llamado *SSH and GPG keys*.
-Una vez allí pulsamos en el botón situado en el lado superior derecho de la pantalla *New SSH key* y pegamos en la caja de texto de abajo nuestra clave pública de antes. Como título debemos viguilar que no contenga cierto carácteres raros o que sea muy larga porque podría arrojar algunos fallos.
+Una vez allí pulsamos en el botón situado en el lado superior derecho de la pantalla *New SSH key* y pegamos en la caja de texto de abajo nuestra clave pública de antes. Como título debemos vigilar que no contenga cierto carácteres raros o que sea muy larga porque podría arrojar algunos fallos.
 
 De cara a tener más claves para el futuro es una buena idea crear un archivo de configuración en el que indicar donde se encuentra cada una. 
 Para ello creamos un nuevo archivo:
